@@ -15,6 +15,7 @@
 		5D0DF51B26BF254D008C90A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5D0DF51926BF254D008C90A9 /* LaunchScreen.storyboard */; };
 		5D0DF52626BF254D008C90A9 /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D0DF52526BF254D008C90A9 /* PreworkTests.swift */; };
 		5D0DF53126BF254D008C90A9 /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D0DF53026BF254D008C90A9 /* PreworkUITests.swift */; };
+		5D0DF53F26C32D7A008C90A9 /* icons8-tips-64.png in Resources */ = {isa = PBXBuildFile; fileRef = 5D0DF53E26C32D7A008C90A9 /* icons8-tips-64.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5D0DF52C26BF254D008C90A9 /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5D0DF53026BF254D008C90A9 /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		5D0DF53226BF254D008C90A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5D0DF53E26C32D7A008C90A9 /* icons8-tips-64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icons8-tips-64.png"; path = "../../../Downloads/icons8-tips-64.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				5D0DF51726BF254D008C90A9 /* Assets.xcassets */,
 				5D0DF51926BF254D008C90A9 /* LaunchScreen.storyboard */,
 				5D0DF51C26BF254D008C90A9 /* Info.plist */,
+				5D0DF53E26C32D7A008C90A9 /* icons8-tips-64.png */,
 			);
 			path = Prework;
 			sourceTree = "<group>";
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D0DF51B26BF254D008C90A9 /* LaunchScreen.storyboard in Resources */,
+				5D0DF53F26C32D7A008C90A9 /* icons8-tips-64.png in Resources */,
 				5D0DF51826BF254D008C90A9 /* Assets.xcassets in Resources */,
 				5D0DF51626BF254B008C90A9 /* Main.storyboard in Resources */,
 			);
